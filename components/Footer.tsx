@@ -7,7 +7,7 @@ type Props = {
 const Footer = ({ name }: Props) => {
   return (
     <footer>
-      <h1>Footer</h1>
+      <h1>This is Footer</h1>
     </footer>
   );
 };
